@@ -7,7 +7,10 @@ Este proyecto es una aplicación básica en Java para gestionar reservas de habi
 
 ## Roles del equipo
 
-- **Alexander (Analista):** 
+- **Alexander López (Analista)**
+- **Glen Gorozabel (Desarrollador)**
+- **David (Tester)**
+- **David (Arquitecto)** 
 
 ## Estructura del Proyecto
 
@@ -30,3 +33,4 @@ Este proyecto es una aplicación básica en Java para gestionar reservas de habi
 
 ## Ejemplo de uso
 
+![image](https://github.com/user-attachments/assets/ebf23188-ebf9-48cf-bf1c-da7d116c548d)
