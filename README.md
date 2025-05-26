@@ -9,8 +9,8 @@ Este proyecto es una aplicación básica en Java para gestionar reservas de habi
 
 - **Alexander López (Analista)**
 - **Glen Gorozabel (Desarrollador)**
-- **David (Tester)**
-- **David (Arquitecto)**
+- **David Ortíz (Tester)**
+- **David Ortíz (Arquitecto)**
 - **Michael Cordova (Gerente)** 
 
 ## Estructura del Proyecto
