@@ -10,7 +10,8 @@ Este proyecto es una aplicación básica en Java para gestionar reservas de habi
 - **Alexander López (Analista)**
 - **Glen Gorozabel (Desarrollador)**
 - **David (Tester)**
-- **David (Arquitecto)** 
+- **David (Arquitecto)**
+- **Michael Cordova (Gerente)** 
 
 ## Estructura del Proyecto
 
@@ -24,10 +25,14 @@ Este proyecto es una aplicación básica en Java para gestionar reservas de habi
 - Crear una nueva reserva
 - Consultar la disponibilidad de habitaciones
 
+## UML
+![Diagrama sin títul](https://github.com/user-attachments/assets/4f74f260-6a80-4d04-bc45-12aef9587c11)
+
+
 ## ¿Cómo ejecutar el programa?
 
 1. Descarga o clona este repositorio.
-2. Abre el proyecto en tu IDE favorito (Eclipse, NetBeans o IntelliJ).
+2. Abre el proyecto en tu IDE favorito.
 3. Compila todos los archivos Java en la carpeta `/src`.
 4. Ejecuta `Main.java` para comenzar.
 
